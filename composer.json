@@ -15,7 +15,8 @@
         "laravel/framework": "5.1.*",
         "doctrine/orm": "2.5.*@dev",
         "symfony/yaml": "2.5.*@dev",
-        "atrauzzi/laravel-doctrine": "dev-master"
+        "atrauzzi/laravel-doctrine": "dev-master",
+        "gedmo/doctrine-extensions": "2.4.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
